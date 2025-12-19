@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": "518e",
+      "title": "template title 1",
+      "body": "updated body 1"
+    },
+    {
+      "id": "1db1",
+      "title": "Post 1766074675849",
+      "body": "Dynamic body"
+    },
+    {
+      "id": "2572",
+      "title": "template title 2",
+      "body": "updated body 2"
+    },
+    {
+      "id": "b6af",
+      "title": "IMPORTANT POST",
+      "body": "Mapped data"
+    },
+    {
+      "id": "310d",
+      "title": "Hello Pactum",
+      "body": "Using stash as template",
+      "userId": 1
+    }
+  ]
+}
